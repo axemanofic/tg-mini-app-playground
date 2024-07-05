@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: '/vite-frontend-starter/',
+  base: '/tg-mini-app-playground/',
   server: {
     port: 3000,
     open: "/index.html",
