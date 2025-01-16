@@ -1,4 +1,4 @@
-import './styles/style.sass'
+// import './styles/style.sass'
 
 const header = document.querySelector('h1')
 const telegram = window.Telegram.WebApp
